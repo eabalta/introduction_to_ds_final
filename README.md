@@ -1,5 +1,4 @@
 # Introduction to Data Science Final Project
-___
 
 * This project comes with a dataset which is insan_kaynaklari.csv
 * The dataset represents a company's worker information list.
